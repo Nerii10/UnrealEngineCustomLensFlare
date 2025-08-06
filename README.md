@@ -10,7 +10,7 @@ This project is a realistic lens flare effect created as a custom post-process m
 
 The effect works dynamically – a rainbow halo appears only when a strong light source is perfectly centered on the screen, simulating the behavior of real-world camera lenses.
 
-[![Watch Lens Flare Demo](Unreal_Engine_5_2025.08.06_-_01.14.19.08.mov)]
+[![Watch Lens Flare Demo](Unreal_Engine_5_2025.08.06_-_01.14.19.08.mov)
 
 ⸻
 
